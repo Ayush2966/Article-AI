@@ -23,7 +23,7 @@ npm install
 npm run dev
 
 ```
-Vite server is needed to runn the app on local host
+Vite server is needed to run the app on local host
 
 <br>
 
