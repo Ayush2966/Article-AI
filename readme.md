@@ -25,6 +25,14 @@ npm run dev
 ```
 Vite server is needed to runn the app on local host
 
+<br>
+ ##Tebnologies Used
+ *Tailwind CSS
+ *Redux JS
+ *ReactJS
+ *NPM
+ *HTML5
+ *RAPID API
 
 
 
