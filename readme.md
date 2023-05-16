@@ -1,6 +1,6 @@
 # OpenAI Article Summarizer
-###  AI based redux-React app built in vite which simplify your reading. It is an open-source article summarizer
-        that transforms lengthy articles into clear and concise summaries
+###  AI based redux-React app built in vite which simplify your reading. 
+It is an open-source article summarizer that transforms lengthy articles into clear and concise summaries
 <br>
 <p  align="center">
 <img  alt="handreacting_image"  src="./src/assets/aj01.png"  width="100%"  />
