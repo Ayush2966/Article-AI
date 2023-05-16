@@ -27,25 +27,15 @@ Vite server is needed to runn the app on local host
 
 <br>
 
-## Usage Instructions
+## Technologies Used
 
- - Choose from 34 fonts that looks handwritten
- - Adjust font size to choose number of words in a line
- - Adjust font weight to change boldness of the text
- - Letter spacing and word spacing helps arrange words more closely
- - Change font color and paper page color to get paper like appearance
- - Adjusting line height is important when page lines are enabled
- - Page lines provide lines in the paper
- - Scan effect provides a shadow to the page
- - Page margin gives a margin to the page
- 
- ## Technologies Used
- * Tailwind CSS
- * Redux JS
- * ReactJS
- * NPM
- * HTML5
- * RAPID API
+ - Tailwind CSS
+ - ReduxJS
+ - ReactJS
+ - Rapid API
+ - Vite
+ - HTML, CSS, JS
+ - NPM
 
 
 
